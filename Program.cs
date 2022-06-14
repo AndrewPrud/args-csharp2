@@ -8,3 +8,5 @@ int numerical_value = 34;
 int number = 23456;
 int num = 234;
 Console.WriteLine(num + number*numerical_value);
+int num2 = 49;
+Console.WriteLine(num + num2);
