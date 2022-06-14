@@ -11,8 +11,10 @@ class Program{
         foreach(string item in inputs){
             list.Add(Int32.Parse(item));
         }
+
+        Console.Write("Your input: ");
         foreach(int thing in list){
-            Console.Write(thing);
+            Console.Write(thing + " ");
         }
         
 
