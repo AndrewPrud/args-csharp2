@@ -4,7 +4,7 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World");
-
+int numerical_value = 34;
 int number = 23456;
 int num = 234;
-Console.WriteLine(num + number);
+Console.WriteLine(num + number*numerical_value);
