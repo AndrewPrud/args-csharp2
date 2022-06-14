@@ -1,12 +1,20 @@
-﻿Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, end of World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World");
-int numerical_value = 34;
-int number = 23456;
-int num = 234;
-Console.WriteLine(num + number*numerical_value);
-int num2 = 49;
-Console.WriteLine(num + num2);
+﻿using System;
+using System.Collections;
+
+class Program{
+    static void Main(String[] args){
+        ArrayList list = new ArrayList();
+        string input;
+        Console.WriteLine("Input: ");
+        input = Console.ReadLine();
+        string[] inputs = input.Split(" ");
+        foreach(string item in inputs){
+            list.Add(Int32.Parse(item));
+        }
+        foreach(int thing in list){
+            Console.Write(thing);
+        }
+        
+
+    }
+}
