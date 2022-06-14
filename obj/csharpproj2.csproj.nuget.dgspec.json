@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositories\\args-csharp2\\csharpproj2.csproj": {}
+    "C:\\Users\\lilw2\\Documents\\repositories\\args-csharp2\\csharpproj2.csproj": {}
   },
   "projects": {
-    "C:\\Repositories\\args-csharp2\\csharpproj2.csproj": {
+    "C:\\Users\\lilw2\\Documents\\repositories\\args-csharp2\\csharpproj2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositories\\args-csharp2\\csharpproj2.csproj",
+        "projectUniqueName": "C:\\Users\\lilw2\\Documents\\repositories\\args-csharp2\\csharpproj2.csproj",
         "projectName": "csharpproj2",
-        "projectPath": "C:\\Repositories\\args-csharp2\\csharpproj2.csproj",
-        "packagesPath": "C:\\Users\\aniru\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositories\\args-csharp2\\obj\\",
+        "projectPath": "C:\\Users\\lilw2\\Documents\\repositories\\args-csharp2\\csharpproj2.csproj",
+        "packagesPath": "C:\\Users\\lilw2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lilw2\\Documents\\repositories\\args-csharp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aniru\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lilw2\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
