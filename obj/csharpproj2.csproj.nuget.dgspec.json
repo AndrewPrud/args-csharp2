@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kprud\\Desktop\\Ctwrepos\\Csharpproj2\\args-csharp2\\csharpproj2.csproj": {}
+    "C:\\Users\\jihon\\Desktop\\CTW\\args-csharp2\\csharpproj2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kprud\\Desktop\\Ctwrepos\\Csharpproj2\\args-csharp2\\csharpproj2.csproj": {
+    "C:\\Users\\jihon\\Desktop\\CTW\\args-csharp2\\csharpproj2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kprud\\Desktop\\Ctwrepos\\Csharpproj2\\args-csharp2\\csharpproj2.csproj",
+        "projectUniqueName": "C:\\Users\\jihon\\Desktop\\CTW\\args-csharp2\\csharpproj2.csproj",
         "projectName": "csharpproj2",
-        "projectPath": "C:\\Users\\kprud\\Desktop\\Ctwrepos\\Csharpproj2\\args-csharp2\\csharpproj2.csproj",
-        "packagesPath": "C:\\Users\\kprud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kprud\\Desktop\\Ctwrepos\\Csharpproj2\\args-csharp2\\obj\\",
+        "projectPath": "C:\\Users\\jihon\\Desktop\\CTW\\args-csharp2\\csharpproj2.csproj",
+        "packagesPath": "C:\\Users\\jihon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jihon\\Desktop\\CTW\\args-csharp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kprud\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jihon\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
